@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "MYFPSStatusManager"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "在状态栏显示当前APP运行时系统状态FPS、CPU、RAM等信息"
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/sunjinshuai/MYFPSStatusManager.git", :tag => "1.0.0" 
+  s.source       = { :git => "https://github.com/sunjinshuai/MYFPSStatusManager.git", :tag => "1.0.1" 
   }
 
 
@@ -92,7 +92,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "MYFPSStatusManager/**/*.{h,m}"
+  s.source_files  = "MYFPSStatusManager/MYFPSStatusManager/**/*.{h,m}"
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
