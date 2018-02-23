@@ -14,7 +14,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-MYKit is available through [CocoaPods](http://cocoapods.org). To install
+MYFPSStatusManager is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```
@@ -27,4 +27,4 @@ sunjinshuai, s_mike@163.com
 
 ## License
 
-MYKit is available under the MIT license. See the LICENSE file for more info.
+MYFPSStatusManager is available under the MIT license. See the LICENSE file for more info.
