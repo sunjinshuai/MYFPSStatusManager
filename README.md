@@ -13,6 +13,8 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Example
 
+![效果图](https://github.com/sunjinshuai/MYFPSStatusManager/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-02-23%2011.08.22.png)
+
 ## Installation
 
 MYFPSStatusManager is available through [CocoaPods](http://cocoapods.org). To install
